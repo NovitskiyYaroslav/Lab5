@@ -1,14 +1,14 @@
 # depslib dependency file v1.0
-1643536076 source:d:\c\5lab\main\main.c
+1643749586 source:d:\c\5lab\main\main.c
 	"matrix.h"
 
-1643540003 d:\c\5lab\main\matrix.h
+1643749460 d:\c\5lab\main\matrix.h
 	<stdio.h>
 	<stdlib.h>
 	<time.h>
 	<math.h>
 	<malloc.h>
 
-1643534715 source:d:\c\5lab\main\matrix.c
+1643720809 source:d:\c\5lab\main\matrix.c
 	"matrix.h"
 
